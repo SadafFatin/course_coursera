@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>39417DE8-2225-4848-BAA8-FD28F768D7CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39417DE8-2225-4848-BAA8-FD28F768D7CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>window-shopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>window-shopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build window-shopper</string>
+			<key>timeStartedRecording</key>
+			<real>585777862.05150402</real>
+			<key>timeStoppedRecording</key>
+			<real>585777862.69242501</real>
+			<key>title</key>
+			<string>Build window-shopper</string>
+			<key>uniqueIdentifier</key>
+			<string>39417DE8-2225-4848-BAA8-FD28F768D7CE</string>
+		</dict>
+		<key>45B9FAEE-7A01-4B54-B3C8-458665755CD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45B9FAEE-7A01-4B54-B3C8-458665755CD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>window-shopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>window-shopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build window-shopper</string>
+			<key>timeStartedRecording</key>
+			<real>585777872.42493105</real>
+			<key>timeStoppedRecording</key>
+			<real>585777874.57748199</real>
+			<key>title</key>
+			<string>Build window-shopper</string>
+			<key>uniqueIdentifier</key>
+			<string>45B9FAEE-7A01-4B54-B3C8-458665755CD6</string>
+		</dict>
+		<key>CA3DDA3A-C442-491A-9901-A627ACB20AEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA3DDA3A-C442-491A-9901-A627ACB20AEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>window-shopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>window-shopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build window-shopper</string>
+			<key>timeStartedRecording</key>
+			<real>585771450.75933802</real>
+			<key>timeStoppedRecording</key>
+			<real>585771461.27415299</real>
+			<key>title</key>
+			<string>Build window-shopper</string>
+			<key>uniqueIdentifier</key>
+			<string>CA3DDA3A-C442-491A-9901-A627ACB20AEB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

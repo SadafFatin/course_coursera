@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.257.2 clang-1100.0.31.3)"
+options: "e7b8b1f63ef47049d617ee64a245417e"
+build_time: [1564085072, 459516000]
+inputs:
+  "/Users/devslopes/Downloads/window-shopper-source/window-shopper/Views/CurrencyTxtField.swift": [1497943968, 0]
+  "/Users/devslopes/Downloads/window-shopper-source/window-shopper/Model/Wage.swift": [1497942242, 0]
+  "/Users/devslopes/Downloads/window-shopper-source/window-shopper/Controller/MainVC.swift": [1564085060, 642000451]
+  "/Users/devslopes/Downloads/window-shopper-source/window-shopper/Views/CalcBtn.swift": [1564085070, 528501311]
+  "/Users/devslopes/Downloads/window-shopper-source/window-shopper/AppDelegate.swift": [1497938652, 0]
